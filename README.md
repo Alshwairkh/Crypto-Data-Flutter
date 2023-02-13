@@ -15,6 +15,6 @@ In this project I learned:
 - How to use Cupertino Widgets.
 
 <p align="center">
-  <img alt="Light" src="demo.png" width="35%">
+  <img alt="Light" src="demo4.png" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
