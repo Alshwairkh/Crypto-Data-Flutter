@@ -15,5 +15,5 @@ In this project I learned:
 - How to use Cupertino Widgets.
 
 
-![image](http://Crypto-Price-Flutter/main/demo.png)
+![image](demo.png)
 
