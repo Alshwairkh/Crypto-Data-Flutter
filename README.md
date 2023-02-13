@@ -15,5 +15,5 @@ In this project I learned:
 - How to use Cupertino Widgets.
 
 
-![image](demo.png)
+![image](demo1.png)
 
