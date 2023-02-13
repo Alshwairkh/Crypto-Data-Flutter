@@ -14,6 +14,7 @@ In this project I learned:
 - How to use the DropdownButton Widget from Material design.
 - How to use Cupertino Widgets.
 
-
-![image](demo1.png)
-
+<p align="center">
+  <img alt="Light" src="demo.png" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
